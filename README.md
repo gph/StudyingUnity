@@ -1,2 +1,7 @@
 # StudyingUnity
-Studying Unity3d!
+
+## I - Player movement
+- Canvas with 3 buttons (left, right, jump)
+
+## II - Environment
+- Map with Start Point and Endpoint
